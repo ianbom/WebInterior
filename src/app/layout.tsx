@@ -1,0 +1,1 @@
+import './globals.css';import {Header,Footer} from '@/components/Site';export const metadata={title:'Lifetime Design | Interior & Arsitektur',description:'Mengubah ruang dengan desain terbaik yang elegan.'};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="id"><body><Header/>{children}<Footer/></body></html>}

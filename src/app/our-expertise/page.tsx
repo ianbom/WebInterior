@@ -1,0 +1,1 @@
+import {Expertise} from '@/components/Site';export default function Page(){return <main><Expertise/></main>}

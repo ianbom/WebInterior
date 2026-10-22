@@ -1,0 +1,1 @@
+import {About} from '@/components/Site';export default function Page(){return <main><About/></main>}

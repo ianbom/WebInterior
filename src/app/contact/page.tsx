@@ -1,0 +1,1 @@
+import {Contact} from '@/components/Site';export default function Page(){return <main><Contact/></main>}

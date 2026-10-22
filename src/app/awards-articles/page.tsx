@@ -1,0 +1,1 @@
+import {Articles} from '@/components/Site';export default function Page(){return <main><Articles/></main>}
